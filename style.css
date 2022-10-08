@@ -3,6 +3,7 @@
 body {
   background-color: #eee;
   font-family: 'Lato', sans-serif;
+
 }
 header {
   position: fixed;
@@ -182,6 +183,14 @@ h2 {
   height: 120px;
   width: 20vw;
   color: darkorange;
+}
+#features .desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 125px;
+    width: 80vw;
+    padding: 5px;
 }
 
 iframe {
