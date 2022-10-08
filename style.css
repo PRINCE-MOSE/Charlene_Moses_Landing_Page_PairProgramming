@@ -212,6 +212,12 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 40px;
 }
+footer {
+  margin-top: 30px;
+  background-color: #ddd;
+  padding: 20px;
+  margin-left: 5rem;
+}
 footer > ul > li {
   padding: 0 10px;
 }
@@ -237,4 +243,5 @@ footer > span {
   justify-content: flex-end;
   font-size: 0.9em;
   color: #444;
+  
 }
